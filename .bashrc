@@ -108,3 +108,5 @@ PERL_MM_OPT="INSTALL_BASE=/home/users/rbarreiro/perl5"; export PERL_MM_OPT;
 GIT_PROMPT_ONLY_IN_REPO=1
 GIT_PROMPT_START="_LAST_COMMAND_INDICATOR_ ${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$"
 source ~/bash-config/.bash-git-prompt/gitprompt.sh
+
+cd
